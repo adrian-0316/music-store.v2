@@ -1,5 +1,6 @@
-package com.example.musicstore.entity;
+package com.example.music_store.entity;
 
+import com.example.music_store.entity.Role;
 import jakarta.persistence.*;
 import lombok.*;
 
